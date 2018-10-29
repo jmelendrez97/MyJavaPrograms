@@ -5,11 +5,15 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class Main {
+
+
+
     private static Scanner s = new Scanner(System.in);
     public static void main(String[] args) {
 	Integer[] IntNumbers=getIntegers(5);
 	printArray(sortIntegers(IntNumbers));
     }
+
 
     private static Integer[] getIntegers(int capacity){
         Integer[] numbers = new Integer[capacity];

@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08592a77-20b6-4d33-a43a-b4a8e700e54a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArrayChallenge/com/jonathan/s/melendrez/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jonathan/s/melendrez/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/ArrayChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/out/production/ArrayChallenge/com/timbuchalka/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +39,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jonathan/s/melendrez/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="460">
               <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
@@ -77,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="389" />
     <option name="y" value="24" />
     <option name="width" value="802" />
@@ -95,7 +75,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540772618770" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540772932324" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -140,7 +120,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -177,7 +157,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jonathan/s/melendrez/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="460">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>

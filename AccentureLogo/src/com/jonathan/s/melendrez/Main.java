@@ -7,7 +7,7 @@ public class Main {
     }
 
     private static void logo(){
-        int linesize[] = {6,10};
+        int linesize[] = {6,10,14};
         for(int i=0;i<=linesize[0];i++){
             System.out.print("*");
 
@@ -15,6 +15,12 @@ public class Main {
         System.out.println();
         System.out.print(" ");
         for(int i=0;i<=linesize[1];i++){
+            System.out.print("*");
+
+        }
+        System.out.println();
+        System.out.print("  ");
+        for(int i=0;i<=linesize[2];i++){
             System.out.print("*");
 
         }

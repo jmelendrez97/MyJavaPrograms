@@ -1,5 +1,7 @@
-import javax.swing.*;
-
 public class index {
-    private JButton button1;
+
+    public static void main(String[] args){
+
+    }
+
 }

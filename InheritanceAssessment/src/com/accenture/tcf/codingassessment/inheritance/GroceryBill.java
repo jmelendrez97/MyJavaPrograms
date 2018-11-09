@@ -22,9 +22,8 @@ public abstract class GroceryBill {
         int counter =0;
 
 
-        String[] head ={"   >>REGULAR BILL<<    ","   >>REGULAR BILL<<    "};
-        String rp1 = head[0]
-                    +"\nClerk: "+clerk.getName()
+       // String[] head ={"   >>REGULAR BILL<<    ","   >>REGULAR BILL<<    "};
+        String rp1 = "\nClerk: "+clerk.getName()
                     +"\nItem Name      Item Price"
                     +"\n-----------------------------";
             System.out.print(rp1);

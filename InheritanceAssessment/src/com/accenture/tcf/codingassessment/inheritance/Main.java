@@ -13,13 +13,15 @@ public class Main {
 
         GroceryBill gb = new RegularBill(clerk);
         gb.addItem(item1); gb.addItem(item2); gb.addItem(item3); gb.addItem(item4); gb.addItem(item5);
-        //gb.printReceipt();
+        System.out.println(" >>REGULAR BILL<<");
+        gb.printReceipt();
 
         GroceryBill db = new DiscountedBill(clerk);
         db.addItem(item1); db.addItem(item2); db.addItem(item3); db.addItem(item4); db.addItem(item5);
+        System.out.println(" >>DISCOUNTED BILL<<");
         //printReceipt();
 
-        gb.printReceipt();
+        //gb.printReceipt();
         db.printReceipt();
     }
 }
